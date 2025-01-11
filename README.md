@@ -131,39 +131,60 @@ npm install
 npx react-native run-android  # or run-ios
 ```
 
-## 📱 Mobile App Screenshots
+## 🖥️ Web Application Screenshots
 
+### Admin Dashboard
 <div align="center">
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/yourusername/ensaj-attendance-system/main/docs/images/login.png" alt="Login Screen" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/yourusername/ensaj-attendance-system/main/docs/images/scanner.png" alt="QR Scanner" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/yourusername/ensaj-attendance-system/main/docs/images/dashboard.png" alt="Dashboard" width="200"/></td>
+    <td><img src="docs/images/web/admin-dashboard-1.png" alt="Admin Dashboard Stats" width="400"/></td>
+    <td><img src="docs/images/web/admin-dashboard-2.png" alt="Admin Dashboard Graph" width="400"/></td>
   </tr>
 </table>
 </div>
 
-## 🖥️ Web Interface Screenshots
-
+### Professor Interface
 <div align="center">
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/yourusername/ensaj-attendance-system/main/docs/images/admin-dashboard.png" alt="Admin Dashboard" width="400"/></td>
-    <td><img src="https://raw.githubusercontent.com/yourusername/ensaj-attendance-system/main/docs/images/professor-view.png" alt="Professor View" width="400"/></td>
+    <td><img src="docs/images/web/professor-home.png" alt="Professor Homepage" width="400"/></td>
+    <td><img src="docs/images/web/qr-code.png" alt="QR Code Generation" width="400"/></td>
   </tr>
 </table>
 </div>
 
-## 📊 System Architecture
+### Schedule and Attendance
+<div align="center">
+<table>
+  <tr>
+    <td><img src="docs/images/web/schedule.png" alt="Class Schedule" width="400"/></td>
+    <td><img src="docs/images/web/attendance.png" alt="Attendance Sheet" width="400"/></td>
+  </tr>
+</table>
+</div>
+
+## 📱 Mobile Application Screenshots
 
 <div align="center">
+<table>
+  <tr>
+    <td><img src="docs/images/mobile/login.png" alt="Mobile Login" width="200"/></td>
+    <td><img src="docs/images/mobile/student-home.png" alt="Student Home" width="200"/></td>
+    <td><img src="docs/images/mobile/qr-scanner.png" alt="QR Scanner" width="200"/></td>
+    <td><img src="docs/images/mobile/presence.png" alt="Attendance Confirmation" width="200"/></td>
+  </tr>
+</table>
+</div>
 
-![Architecture Diagram](https://raw.githubusercontent.com/yourusername/ensaj-attendance-system/main/docs/images/architecture.png)
+## 🎥 Demo Video
 
+<div align="center">
+  <video width="100%" controls>
+    <source src="docs/demo/demo.mp4" type="video/mp4">
+  </video>
 </div>
 
 ## 👥 Contributors
-
 
 - [DAOUDI Mohammed](https://github.com/Mohammedaoudi)
 - [CHOUAY Walid](https://github.com/CHOUAY15) 
