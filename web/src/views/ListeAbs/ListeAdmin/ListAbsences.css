@@ -1,0 +1,31 @@
+.custom-card {
+    background-color: #2d71a1;
+    color: white;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  
+  .custom-card .card-body .card-text {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .custom-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .custom-card:hover .card-body .card-text {
+    opacity: 1;
+  }
+  
+  .download-icon {
+    color: #007bff;
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .download-icon:hover {
+    color: #0056b3;
+  }
+  
