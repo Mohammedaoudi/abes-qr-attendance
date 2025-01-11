@@ -88,8 +88,8 @@ abes-qr-attendance/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ensaj-attendance-system.git
-cd ensaj-attendance-system
+git clone https://github.com/Mohammedaoudi/abes-qr-attendance.git
+cd abes-qr-attendance
 ```
 
 2. **Set up environment variables**
@@ -211,6 +211,6 @@ Special thanks to:
 
 Made with ❤️ by Team 2ITE | ENSAJ 2023-2024
 
-[Report Bug](https://github.com/yourusername/ensaj-attendance-system/issues) · [Request Feature](https://github.com/yourusername/ensaj-attendance-system/issues)
+[Report Bug](https://github.com/Mohammedaoudi/abes-qr-attendance/issues) · [Request Feature](https://github.com/Mohammedaoudi/abes-qr-attendance/issues)
 
 </div>
