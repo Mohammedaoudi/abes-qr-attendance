@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ENSAJ Logo](https://raw.githubusercontent.com/yourusername/ensaj-attendance-system/main/frontend/public/logo.png)
+![APP Logo](docs/images/logo.png)
 
 [![Made with MERN](https://img.shields.io/badge/Made%20with-MERN-blue.svg)](https://www.mongodb.com/mern-stack)
 [![License](https://img.shields.io/badge/License-Academic-green.svg)](LICENSE)
@@ -14,11 +14,7 @@
 
 A modern, QR code-based attendance management system built for ENSAJ (École Nationale des Sciences Appliquées d'El Jadida). This system streamlines the attendance tracking process through an intuitive web interface for administrators and professors, complemented by a mobile application for students.
 
-<div align="center">
 
-![System Overview](https://raw.githubusercontent.com/yourusername/ensaj-attendance-system/main/docs/images/overview.png)
-
-</div>
 
 ## ✨ Key Features
 
@@ -179,9 +175,27 @@ npx react-native run-android  # or run-ios
 ## 🎥 Demo Video
 
 <div align="center">
+
+
+
+
   <video width="100%" controls>
+
+
+
+
     <source src="docs/demo/demo.mp4" type="video/mp4">
+
+
+
+
+
   </video>
+
+
+
+
+
 </div>
 
 ## 👥 Contributors
