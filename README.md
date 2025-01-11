@@ -179,18 +179,8 @@ npx react-native run-android  # or run-ios
 
 
 
-  <video width="100%" controls>
-
-
-
-
-    <source src="docs/demo/demo.mp4" type="video/mp4">
-
-
-
-
-
-  </video>
+ https://github.com/user-attachments/assets/b5efc9fd-d663-4a65-ac53-817d42299a63
+ 
 
 
 
