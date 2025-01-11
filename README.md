@@ -164,12 +164,10 @@ npx react-native run-android  # or run-ios
 
 ## 👥 Contributors
 
-<div align="center">
 
-| <img src="https://github.com/bessamadam.png" width="100" height="100" alt="Adam"/><br>**BESSAM Adam**<br>*Backend Lead* | <img src="https://github.com/chouaywalid.png" width="100" height="100" alt="Walid"/><br>**CHOUAY Walid**<br>*Frontend Lead* | <img src="https://github.com/daoudimohammed.png" width="100" height="100" alt="Mohammed"/><br>**DAOUDI Mohammed**<br>*Mobile Lead* |
-|:---:|:---:|:---:|
-
-</div>
+- [DAOUDI Mohammed](https://github.com/Mohammedaoudi)
+- [CHOUAY Walid](https://github.com/CHOUAY15) 
+- [BESSAM Adam](https://github.com/AdamBessam)
 
 ## 📄 License
 
