@@ -52,28 +52,6 @@ A modern, QR code-based attendance management system built for ENSAJ (École Nat
 
 </div>
 
-## 🗂️ Project Structure
-
-```
-abes-qr-attendance/
-├── backend/              # Server-side code
-│   ├── config/          # Configuration files
-│   ├── controllers/     # Request handlers
-│   ├── models/         # Database models
-│   ├── routes/         # API routes
-│   └── middleware/     # Custom middleware
-├── web/                # React web application
-│   ├── public/         # Static files
-│   └── src/            # Source files
-│       ├── components/ # React components
-│       ├── pages/      # Page components
-│       ├── context/    # React context
-│       └── utils/      # Utility functions
-└── mobile/             # React Native mobile app
-    ├── src/            # Source files
-    ├── android/        # Android specific files
-    └── ios/            # iOS specific files
-```
 
 ## 🚀 Getting Started
 
